@@ -1,0 +1,9 @@
+{
+  "name": "js-module-patterns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "keywords": [],
+  "author": "Henshaw Rowland",
+  "license": "ISC"
+}
